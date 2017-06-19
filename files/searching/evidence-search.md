@@ -32,12 +32,11 @@ Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.nc
 
 ### Identifying seminal studies that are the most highly cited
 Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
- * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801)
- * [12 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\*)
  * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en)
+
 Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
  * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801)
- * [12 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\*)
+
 
 ### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
 Mehta et al. 
