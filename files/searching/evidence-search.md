@@ -11,8 +11,8 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 ### Boolean term searching
 
 [supraventricular tachycardia AND Valsalva AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=supraventricular%20tachycardia%20AND%20Valsalva%20AND%20random*)
-* Retrieves 5 articles in hand (100% sensitivity)
-* 12 total citations found (search results reviewed 2/27/2016; 0 additional studies found)
+* Retrieves 5 articles in hand (100% sensitivity) (search 6/19/2017)
+* 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
 
 ### Vector searching ('Related citations' search)
 (under construction)
@@ -24,7 +24,7 @@ Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.nc
 ## ClinicalTrials.gov
 
 `supraventricular tachycardia AND Valsalva`
-* [1 citations](https://clinicaltrials.gov/ct2/results?term=supraventricular+tachycardia+AND+Valsalva&Search=Search)
+* [1 citations](https://clinicaltrials.gov/ct2/results?term=supraventricular+tachycardia+AND+Valsalva&Search=Search) (search 6/19/2017)
   * [NCT02216240](https://clinicaltrials.gov/ct2/show/NCT02216240) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
 
 ## Cited reference searching
@@ -32,10 +32,10 @@ Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.nc
 
 ### Identifying seminal studies that are the most highly cited
 Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
- * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en)
+ * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en) (search 6/19/2017)
 
 Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
- * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801)
+ * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
 
 
 ### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
