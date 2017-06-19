@@ -1,4 +1,4 @@
-Template a full living systematic-review of interventions
+Supraventricular tachycardia treatment with vagal maneuvers
 =================================
 **[Click here](
 http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
