@@ -1,0 +1,11 @@
+﻿Study,             Year,PMID,xi,ni,trt,Position,Strain Duration (seconds),Pressure (mmHg),Outcomes (# to sinus conversion),Quality of Evidence (Cochrane)
+Appleboam,2015,26314489,93,214,Modified Valsalva,Supine,15,40,Single,
+Appleboam,2015,26314489,37,214,Standard Valsalva,Supine,15,40,Single,
+Corbacioglu,2017,28552271,12,28,Modified Valsalva,Seated,15,40,Single,
+Corbacioglu,2017,28552271,3,28,Standard Valsalva,Seated,15,40,Single,
+Lim,1998,28140013,12,62,Standard Valsalva,Seated,30,40,Two,Low
+Lim,1998,28140013,9,86,Carotid Sinus Massage,Seated,30,40,Two,Low
+Wen,1998,9851958,61,133,Standard Valsalva,Supine,20,35,Three,Low
+Wen,1998,9851958,2,130,Carotid Sinus Massage,Supine,20,35,Three,Low
+Mehta,1988,2897005,19,35,Standard Valsalva,Supine,45,35,Three,Low
+Mehta,1988,2897005,7,35,Standing Valsalva,Supine,45,35,Three,Low
