@@ -1,8 +1,7 @@
 Supraventricular tachycardia treatment with vagal maneuvers
 =================================
 **[Click here](
-http://openmetaanalysis.github.io/Template-a-full-living-systematic-review-of-interventions
-) to see the meta-analysis.**
+https://openmetaanalysis.github.io/Supraventricular-tachycardia-treatment-with-vagal-maneuvers/) to see the meta-analysis.**
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
 * [Subscribe by email or RSS](files/searching/Keep-up.md)
