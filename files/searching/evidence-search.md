@@ -19,8 +19,7 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26314489%2028552271%2028140013%209851958%202897005)
 * [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
 * 39 citations when above includes random* and limited to years 2014 - 2017 (time period after Cochrane review)
-  * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
-
+  * None met inclusion criteria
 ## ClinicalTrials.gov
 
 `supraventricular tachycardia AND Valsalva`
@@ -31,7 +30,7 @@ Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.nc
 
 `supraventricular tachycardia AND Valsalva`
 * 14 citations (search 6/23/2017)
-  * None meet inclusion criteria
+  * None met inclusion criteria (search 6/23/2017)
 
 ## Cited reference searching
 (under construction)
@@ -43,8 +42,14 @@ Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalv
 Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
  * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
 
+Appelboam A, Reuben A, Mann C, Gagg J, Ewings P, Barton A, Lobban T, Dayer M, Vickery J, Benger J; REVERT trial collaborators. Postural modification to the standard Valsalva manoeuvre for emergency treatment of supraventricular tachycardias (REVERT): a randomised controlled trial. Lancet. 2015 PMID: [26314489](http://pubmed.gov/26314489).
 
-### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
-Mehta et al. 
-* [12 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\*)
-* [x additional studies found](https://pubmed.gov/25503625,27045252)
+* [35 citations](https://scholar.google.com/scholar?cites=14203230791400285038&as_sdt=2005&sciodt=0,5&hl=en) (search 6/23/2017)
+
+### Searching 'randomized' within the highly citing studyies using Google Scholar (4/21/2017)
+Mehta et al
+* [47 citations](https://scholar.google.com/scholar?q=randomized&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7605211014335624801&scipsc=1&oq=) (limited to citing articles containing randomized)
+* No additinal articles found
+Appelboam et al. 
+* [13 citations](https://scholar.google.com/scholar?q=randomized&hl=en&as_sdt=2005&sciodt=0%2C5&cites=14203230791400285038&scipsc=1&oq=random) (limited to citing articles containing randomized)
+* No additinal articles found
