@@ -19,7 +19,7 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26314489%2028552271%2028140013%209851958%202897005)
 * [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
 * 39 citations when above includes random* and limited to years 2014 - 2017 (time period after Cochrane review)
-  * None met inclusion criteria
+  * None met inclusion criteria (searched 6/23/2017)
 ## ClinicalTrials.gov
 
 `supraventricular tachycardia AND Valsalva`
@@ -49,7 +49,7 @@ Appelboam A, Reuben A, Mann C, Gagg J, Ewings P, Barton A, Lobban T, Dayer M, Vi
 ### Searching 'randomized' within the highly citing studyies using Google Scholar (4/21/2017)
 Mehta et al
 * [47 citations](https://scholar.google.com/scholar?q=randomized&hl=en&as_sdt=2005&sciodt=0%2C5&cites=7605211014335624801&scipsc=1&oq=) (limited to citing articles containing randomized)
-* No additinal articles found
+  * No additinal articles found (search 6/23/2017)
 Appelboam et al. 
 * [13 citations](https://scholar.google.com/scholar?q=randomized&hl=en&as_sdt=2005&sciodt=0%2C5&cites=14203230791400285038&scipsc=1&oq=random) (limited to citing articles containing randomized)
-* No additinal articles found
+  * No additinal articles found (search 6/23/2017)
