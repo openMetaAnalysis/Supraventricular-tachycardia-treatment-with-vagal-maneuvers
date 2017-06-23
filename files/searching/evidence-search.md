@@ -1,7 +1,7 @@
 # Evidence search
 (under construction)
 ## Inclusion criteria
-Randomized trials of [disease] that compare [intervention] to placebo.
+Randomized trials of Supraventricular Tachycardia that compare Modified Valsalva Maneuver to all other methods.
 
 ## Reconciliation tables
 (under construction)
